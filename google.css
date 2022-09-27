@@ -17,7 +17,7 @@ a:hover {
     text-decoration: underline;
 }
 
-#conteneur {
+#content {
     display: flex;
     justify-content: space-between;
     height: 48px;
@@ -93,7 +93,7 @@ a:hover {
     color: #681da8;
 }
 
-#logoGeant {
+#giant-logo {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -101,7 +101,7 @@ a:hover {
     height: 290px;
 }
 
-#rechercheBoutons {
+#rchbuttons {
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -195,16 +195,13 @@ footer {
     border-bottom: 1px solid #dadce0;
 }
 
-#footerfooter {
-}
-
-#carbone {
+#carbon {
     display: flex;
     justify-content: center;
     height: 50%;
 }
 
-#feuille {
+#leaf {
     height: 14px;
     width: 12,250px;
 }
